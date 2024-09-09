@@ -1,5 +1,7 @@
 # Hi there 👋
 - Computer Engineer Undergrad at [IFF](https://portal1.iff.edu.br/)
+- Currently learning about Backend and Data Science
+- On my free time I enjoy making some [Games](https://monteirodev.itch.io/), trying to do [Art](https://www.deviantart.com/monteirovj) and I also [Stream](https://www.youtube.com/@monteirodev) coding sessions.
 ## Knowledge
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=c,cs,py,js,ts)](https://skillicons.dev)
