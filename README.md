@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## Conhecimento
-[![Languages](https://skillicons.dev/icons?i=c,cs,js,ts,py,mysql)](https://skillicons.dev)
-[![Tools and Frameworks](https://skillicons.dev/icons?i=nodejs,react,postgres,github3)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cs,js,ts,py,mysql)](https://skillicons.dev)<br>
+[![Tools and Frameworks](https://skillicons.dev/icons?i=nodejs,react,postgres,github3)](https://skillicons.dev)<br>
 [![Game](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
 
 ## Aprendendo
