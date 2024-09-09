@@ -2,7 +2,7 @@
 
 ## Conhecimento
 ### Linguagens
-[![Languages](https://skillicons.dev/icons?i=c,cs,js,ts,py,mysql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cs,py,js,ts)](https://skillicons.dev)
 ### Ferramentas e Frameworks
 [![Tools and Frameworks](https://skillicons.dev/icons?i=nodejs,react,postgres,github3)](https://skillicons.dev)
 ### GameDev
