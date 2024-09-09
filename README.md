@@ -5,7 +5,7 @@
 
 ## Knowledge & Skills
 ### Languages
-[Languages](https://skillicons.dev/icons?i=c,cs,py,js,ts)
+![Languages](https://skillicons.dev/icons?i=c,cs,py,js,ts)
 ### Tools & Frameworks
 [![Tools and Frameworks](https://skillicons.dev/icons?i=nodejs,react,postgres,github3)](https://skillicons.dev)
 ### GameDev
