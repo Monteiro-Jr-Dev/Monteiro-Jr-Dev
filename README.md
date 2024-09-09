@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Computer Engineer Undergrad at [IFF](https://portal1.iff.edu.br/)
 ## Knowledge
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=c,cs,py,js,ts)](https://skillicons.dev)
