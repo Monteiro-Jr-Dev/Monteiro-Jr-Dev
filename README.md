@@ -1,6 +1,6 @@
 # Hi there 👋
 - Computer Engineer Undergrad at [IFF](https://portal1.iff.edu.br/)
-- Currently learning about Web Dev and Data Science
+- Currently learning Web Dev and Data Science
 - On my free time I enjoy making some [Games](https://monteirodev.itch.io/), trying to do [Art](https://www.deviantart.com/monteirovj) and I also [Live Stream](https://www.youtube.com/@monteirodev) while coding/studying.
 
 ## Knowledge & Skills
