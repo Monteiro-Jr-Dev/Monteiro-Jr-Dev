@@ -13,13 +13,14 @@
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)](https://skillicons.dev)
 
-## Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/vmonteirojr?border=0&radius=20&card_width=320)
-
 ## Github Stats
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Monteiro-Jr-Dev&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Monteiro-Jr-Dev&layout=compact&langs_count=8&card_width=240&theme=dark" />
 </a>
+
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/vmonteirojr?border=0&radius=20&card_width=240)
+
 
 <!--
 **Monteiro-Jr-Dev/Monteiro-Jr-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
