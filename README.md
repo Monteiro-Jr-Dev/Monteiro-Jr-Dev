@@ -5,9 +5,9 @@
 
 ## Knowledge & Skills
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=c,cs,py,js,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cs,js,ts)](https://skillicons.dev)
 ### Tools & Frameworks
-[![Tools and Frameworks](https://skillicons.dev/icons?i=nodejs,react,postgres,github3)](https://skillicons.dev)
+[![Tools and Frameworks](https://skillicons.dev/icons?i=nodejs,react,postgres,dotnet)](https://skillicons.dev)
 ### GameDev
 [![Game](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
 ### Learning
