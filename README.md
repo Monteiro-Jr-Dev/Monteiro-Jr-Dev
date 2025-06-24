@@ -10,7 +10,7 @@
 [![Tools and Frameworks](https://skillicons.dev/icons?i=nodejs,react,postgres,dotnet)](https://skillicons.dev)
 ### GameDev
 [![Game](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
-### Learning
+### Currently I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)](https://skillicons.dev)
 
 ## Github Stats
