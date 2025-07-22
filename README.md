@@ -1,7 +1,7 @@
 # Hi there 👋
 - Computer Engineer Undergrad at [IFF](https://portal1.iff.edu.br/)
 - Currently learning Web Dev
-- On my free time I enjoy making some [Games](https://monteirodev.itch.io/), trying to do [Art](https://www.deviantart.com/monteirovj) and I also [Live Stream](https://www.youtube.com/@monteirodev) while coding/studying.
+- On my free time I enjoy making some [Games](https://monteirodev.itch.io/), trying to do [Art](https://www.deviantart.com/monteirovj) and I also make some [Videos](https://www.youtube.com/@monteirodev).
 
 ## Knowledge & Skills
 ### Languages
