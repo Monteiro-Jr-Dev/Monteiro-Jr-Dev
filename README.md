@@ -11,12 +11,12 @@
 ### Currently I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=react,django,postgres,docker)](https://skillicons.dev)
 
+<!--
 ## Github Stats
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Monteiro-Jr-Dev&layout=compact&langs_count=8&card_width=240&theme=dark" />
 </a>
 
-<!--
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vmonteirojr?border=0&radius=20&card_width=240)
 
