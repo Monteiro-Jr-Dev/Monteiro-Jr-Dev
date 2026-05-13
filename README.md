@@ -5,7 +5,7 @@
 
 ## Knowledge & Skills
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=c,cs,js,ts,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cs,js,py)](https://skillicons.dev)
 ### GameDev
 [![Game](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
 ### Currently I'm Learning
