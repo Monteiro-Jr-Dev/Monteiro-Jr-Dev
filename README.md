@@ -5,11 +5,11 @@
 
 ## Knowledge & Skills
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=c,cs,js,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,java,cs,js)](https://skillicons.dev)
 ### GameDev
 [![Game](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
 ### Currently I'm Learning
-[![My Skills](https://skillicons.dev/icons?i=react,spring,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,postgres,docker)](https://skillicons.dev)
 
 <!--
 ## Github Stats
